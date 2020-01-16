@@ -1,0 +1,34 @@
+/* Start footer */
+footer
+{
+	background-color: #191E22;
+	color:#B0C4DE;
+	padding: 20px;
+	text-align: center;
+}
+footer ul
+{
+	list-style: none;
+	padding-left: 0;
+	margin: 10px 0 0;
+}
+footer ul li
+{
+	display: inline-block;
+}
+footer ul li img
+{
+	width: 24px;
+}
+/* End footer */
+
+/* Start my framework */
+.my-button
+{
+	background:none;
+	border: 3px solid #2dcc70;
+	padding: 10px 30px;
+	color: #2dcc70;
+	font-weight: bold;
+}
+/* end my framework */
